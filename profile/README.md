@@ -80,7 +80,7 @@ You can find a copy of the license terms [here][license].
 
 <!-- Links -->
 
-[license]: ../LICENSE
+[license]: https://github.com/matrix-e2e-bridge/.github/blob/main/LICENSE
 [matrix-announcements]: https://matrix.to/#/#matrixe2ebridge-announcements:matrix.org
 [matrix-general]: https://matrix.to/#/#matrixe2ebridge-general:matrix.org
 [matrix-space]: https://matrix.to/#/#matrixe2ebridge:matrix.org
