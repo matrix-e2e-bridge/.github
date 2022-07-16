@@ -13,7 +13,7 @@ This project is (shall become) a dynamic group of people with the goal to add su
 
 If you want to share your ideas, issues you see, solutions or anything else related to the project, for now please write into the [general Matrix room][matrix-general].
 
-If you want to join me/us in the journey, you can write in the [general Matrix room][matrix-gneral] as well. Please submit your GitHub account name/link as well, so you may be added to organization.
+If you want to join me/us in the journey, you can write in the [general Matrix room][matrix-general] as well. Please submit your GitHub account name/link as well, so you may be added to organization.
 
 ## What's the problem?
 
