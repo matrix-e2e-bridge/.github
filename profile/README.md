@@ -75,10 +75,12 @@ So *configurations*:
 ## License
 
 All work on the upcoming proposals to the Matrix spec, the implentations to different Matrix clients and other repositories belonging to this organization are, if not stated otherwise in the respective repository, licensed under the Apache License, Version 2.0.
+You can find a copy of the license terms [here][license].
 
 
 <!-- Links -->
 
+[license]: ../LICENSE
 [matrix-announcements]: https://matrix.to/#/#matrixe2ebridge-announcements:matrix.org
 [matrix-general]: https://matrix.to/#/#matrixe2ebridge-general:matrix.org
 [matrix-space]: https://matrix.to/#/#matrixe2ebridge:matrix.org
